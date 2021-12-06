@@ -7,7 +7,7 @@ if [ "$nif" = "" ]; then
   exit
 fi
 if [ "$1" = "on" ]; then
-  sudo tc qdisc add dev $nif root handle 1:0 netem delay 10000ms
+  sudo tc qdisc add dev $nif root handle 1:0 netem delay 5000ms
   exit
 fi
 if [ "$1" = "off" ]; then
