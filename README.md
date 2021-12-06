@@ -8,7 +8,7 @@ The communication freezer.
 ### Usage
 **install**
 ```bash
-npm install --save TakutoYoshikai/weasley-freeze
+npm install -g TakutoYoshikai/weasley-freeze
 ```
 
 **make the speed slow**
