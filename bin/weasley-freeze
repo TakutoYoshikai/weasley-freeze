@@ -1,6 +1,6 @@
 #!/bin/bash
 
-nif="$1"
+nif="$2"
 
 if [ "$nif" = "" ]; then
   echo "weasley-freeze < on | off | status > <NETWORK INTERFACE>"
