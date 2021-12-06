@@ -1,5 +1,5 @@
 # weasley-freeze
-The communication speed freezer.
+The communication freezer.
 
 ### Requirements
 * Ubuntu
